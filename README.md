@@ -1,4 +1,4 @@
-# 100dayscodes
+# Practice Codes in Java and Python
 1. Armstrong Number
 2. Armstrongbtwninterval
 3. factorialOfNumber
